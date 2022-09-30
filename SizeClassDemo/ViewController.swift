@@ -27,7 +27,7 @@ class ViewController: UIViewController {
         print("This is Directly push From the mac mini......")
         
         
-        // This is Check From Xcode
+        // This is Check From Xcode //
         
     }
 
